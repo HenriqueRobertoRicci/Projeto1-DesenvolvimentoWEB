@@ -1,0 +1,39 @@
+	body{
+		background-color: #FFFFFF;
+	}
+	#footer{
+		color: white;
+		background-color: #228B22;
+	}
+	h1{
+		color: white;
+		background-color: #228B22;
+	}
+	h2{
+		color: white;
+		background-color: #228B22;
+	}
+	h3{
+		color: white;
+		background-color: #228B22;
+	}
+	#menu ul li{
+		display: inline;
+    	padding:0px;
+    	margin:0px;
+    	background-color:#EDEDED;
+    	list-style:none;
+	}
+	#menu ul li a:hover {
+    	background-color: #228B22;
+    	color: black;
+    	border-bottom:10px solid white;
+	}
+	#form{
+		background: #EEE8AA;
+		border: 1px solid black;
+		padding: 15px; 
+	}
+	#mapid { 
+		height: 340px; 
+	}
